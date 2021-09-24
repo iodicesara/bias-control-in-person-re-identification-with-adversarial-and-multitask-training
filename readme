@@ -1,1 +1,7 @@
-This is the repository for the arXiv paper: Person Re-identification with Bias-controlled Adversarial Training.
+This is the repository for the arXiv paper: Person Re-identification with Bias-controlled Adversarial Training
+S Iodice, K Mikolajczyk
+
+
+Bias annotation
+Market1501: https://www.dropbox.com/s/tdtsudua77ldb71/bias-labels-Market1501.zip?dl=0
+DukeMTCM: https://www.dropbox.com/s/8ofasgx60e2a9aj/bias-labels-DukeMTMC.zip?dl=0
